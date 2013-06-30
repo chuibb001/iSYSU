@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>item0</key>
+	<dict>
+		<key>square</key>
+		<string>东校区</string>
+		<key>hotel</key>
+		<array>
+			<dict>
+				<key>numbers</key>
+				<string>39332828</string>
+				<key>name</key>
+				<string>东苑宾馆</string>
+				<key>number</key>
+				<string>TEL: (020)39332828  39354165  39354166</string>
+				<key>address</key>
+				<string>无</string>
+			</dict>
+		</array>
+	</dict>
+	<key>item2</key>
+	<dict>
+		<key>square</key>
+		<string>南校区</string>
+		<key>hotel</key>
+		<array>
+			<dict>
+				<key>numbers</key>
+				<string>84111590</string>
+				<key>name</key>
+				<string>黑石屋贵宾楼</string>
+				<key>address</key>
+				<string>南校区中区</string>
+				<key>number</key>
+				<string>TEL: (020)84111590</string>
+			</dict>
+			<dict>
+				<key>numbers</key>
+				<string>84112138</string>
+				<key>name</key>
+				<string>荣光堂</string>
+				<key>address</key>
+				<string>南校区第一教学楼北面</string>
+				<key>number</key>
+				<string>TEL: (020)84112138</string>
+			</dict>
+			<dict>
+				<key>numbers</key>
+				<string>84112978</string>
+				<key>name</key>
+				<string>西苑宾馆</string>
+				<key>address</key>
+				<string>南校区西门内东侧约100米</string>
+				<key>number</key>
+				<string>TEL: (020)84112978  84110987(传真)</string>
+			</dict>
+			<dict>
+				<key>numbers</key>
+				<string>84111888</string>
+				<key>number</key>
+				<string>TEL: (020)84111888  84110488</string>
+				<key>name</key>
+				<string>紫荆园宾馆</string>
+				<key>address</key>
+				<string>位于南校区东南区（外国语学院后侧，正门100米处）</string>
+			</dict>
+		</array>
+	</dict>
+	<key>item1</key>
+	<dict>
+		<key>hotel</key>
+		<array>
+			<dict>
+				<key>numbers</key>
+				<string>87331648</string>
+				<key>address</key>
+				<string>中山二路74路。管辖范围包括留学生楼（外国专家招待所）、杏苑进修生楼（临工宿舍）等。</string>
+				<key>number</key>
+				<string>TEL: (020)87331648  87330817</string>
+				<key>name</key>
+				<string>北校区接待服务中心</string>
+			</dict>
+			<dict>
+				<key>numbers</key>
+				<string>87331837</string>
+				<key>address</key>
+				<string>北校区东门斜对面（越秀区执信南路138号，北端人行天桥边）。</string>
+				<key>number</key>
+				<string>TEL: (020)87331837  87331299</string>
+				<key>name</key>
+				<string>北苑宾馆</string>
+			</dict>
+		</array>
+		<key>square</key>
+		<string>北校区</string>
+	</dict>
+	<key>item3</key>
+	<dict>
+		<key>hotel</key>
+		<array>
+			<dict>
+				<key>numbers</key>
+				<string>3619897</string>
+				<key>address</key>
+				<string>珠海校区临海</string>
+				<key>name</key>
+				<string>伍舜德国际交流中心</string>
+				<key>number</key>
+				<string>TEL: (0756)3619897  3619889  3619838(传真)</string>
+			</dict>
+			<dict>
+				<key>numbers</key>
+				<string>3619897</string>
+				<key>address</key>
+				<string>珠海校区中心位置。服务台设于荔园二号东一楼（岁月湖餐厅对面）。</string>
+				<key>number</key>
+				<string>TEL: (0756)3619897  3619889  3619838(传真)</string>
+				<key>name</key>
+				<string>珠海校区招待所</string>
+			</dict>
+		</array>
+		<key>square</key>
+		<string>珠海校区</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,33 @@
+"BusPageOneTitle" = "南校区到东校区";
+
+"BusPageFiveTitle" = "北校区到东校区";
+
+"BusPageThreeTitle" = "东校区到南校区";
+
+"BusPageFourTitle" = "东校区到北校区";
+
+"BusPageTwoTitle" = "南校区到北校区";
+
+"BusPageSixTitle" = "北校区到南校区";
+
+"BusPageOneFrom" = "南";
+"BusPageOneTo" = "东";
+
+"BusPageTwoFrom" = "南";
+"BusPageTwoTo" = "北";
+
+"BusPageThreeFrom" = "东";
+"BusPageThreeTo" = "南";
+
+"BusPageFourFrom" = "东";
+"BusPageFourTo" = "北";
+
+"BusPageFiveFrom" = "北";
+"BusPageFiveTo" = "东";
+
+"BusPageSixFrom" = "北";
+"BusPageSixTo" = "南";
+
+"CalendarPageOneTitle" = "校历";
+
+
